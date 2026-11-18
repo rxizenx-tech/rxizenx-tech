@@ -2,15 +2,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0f2027,50:203a43,100:00ff9c&height=260&section=header&text=RAIZEN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%7C%20Ethical%20Hacker&descAlignY=62&descSize=24" alt="Banner" />
-
-<img src="eyes.svg" width="480" alt="Ojos" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a3d2a,100:00ff9c&height=260&section=header&text=RAIZEN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%7C%20Ethical%20Hacker&descAlignY=62&descSize=24" alt="Banner" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1000&color=00FF9C&center=true&vCenter=true&width=720&lines=Estoy+viendo+tu+c%C3%B3digo...+%F0%9F%91%81%EF%B8%8F;Construyo+aplicaciones+web+seguras;Encuentro+vulnerabilidades+antes+que+los+atacantes;Seguridad+%2B+Desarrollo+%3D+Software+robusto" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=760&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit+%F0%9F%90%87;Construyo+aplicaciones+web+seguras;Encuentro+vulnerabilidades+antes+que+los+atacantes" alt="Matrix Typing" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://media.giphy.com/media/sIIhZliB2McAo/giphy.gif" width="420" alt="Nyan Cat" />
 
@@ -19,6 +17,44 @@
 ![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=00ff9c&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&logo=github&color=203a43)
 ![Stars](https://img.shields.io/github/stars/TU_USUARIO?style=for-the-badge&logo=github&color=00c97a)
+
+</div>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="línea" />
+
+## 🕶️ Modo Matrix
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=110&section=header&text=01001000%2001000001%2001000011%2001001011&fontSize=34&fontColor=00ff41&animation=blink&fontAlignY=50" alt="Binario" />
+
+```text
+ ┌──────────────────────────────────────────────┐
+ │  > Accediendo al sistema...                  │
+ │  > Bypass de seguridad.......... [ OK ]      │
+ │  > Cifrado...................... [ OK ]      │
+ │  > Bienvenido, Raizen.                       │
+ └──────────────────────────────────────────────┘
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=110&section=footer&text=01010010%2001000001%2001001001%2001011010&fontSize=34&fontColor=00ff41&animation=blink&fontAlignY=50" alt="Binario" />
+
+</div>
+
+## 👾 Zona Pac-Man
+
+<div align="center">
+
+```text
+  ╔════════════════════════════════════════╗
+  ║  ᗧ · · · · · · · · · · ᗣ  ᗣ  ᗣ  ᗣ      ║
+  ║  ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ● ●     ║
+  ║  SCORE: 1337     LIVES: ᗧ ᗧ ᗧ          ║
+  ╚════════════════════════════════════════╝
+```
+
+![Pac-Man](https://img.shields.io/badge/PLAYER_1-READY!-FFFF00?style=for-the-badge&logo=pacman&logoColor=black&labelColor=000000)
+![Score](https://img.shields.io/badge/HIGH_SCORE-1337-00ff9c?style=for-the-badge&labelColor=000000)
 
 </div>
 
@@ -104,17 +140,6 @@ raizen@kali:~$ sudo make coffee
 
 </div>
 
-## 🐍 Serpiente de contribuciones
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake-dark.svg" />
-  <img alt="Snake" src="https://raw.githubusercontent.com/TU_USUARIO/TU_USUARIO/output/github-contribution-grid-snake.svg" />
-</picture>
-
-</div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="línea" />
 
 ## 🚀 Proyectos destacados
@@ -151,8 +176,8 @@ raizen@kali:~$ sudo make coffee
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@email.com)
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TU_USUARIO)
 
-*"La seguridad no es un producto, es un proceso."*
+*"La seguridad no es un producto, es un proceso."* 👁️👁️
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:203a43,100:0f2027&height=140&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff9c,50:0a3d2a,100:000000&height=140&section=footer" alt="Footer" />
 
 </div>
