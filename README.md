@@ -148,7 +148,7 @@ rxizenx-tech@kali:~$ cat about.txt
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🔗 [**Proyecto 1**](https://github.com/rxizenx-tech/proyecto-1) | App web con autenticación segura y panel admin | `React` `Node.js` `PostgreSQL` |
+| 🔗 [**Proyecto 1**](https://galaxy-by-raizen.netlify.app/) | Landing page galaxia interactiva | `html` `js` `Raizen` |
 | 🔗 [**Proyecto 2**](https://github.com/rxizenx-tech/proyecto-2) | Herramienta de auditoría y reconocimiento web | `Python` `Bash` |
 | 🔗 [**Proyecto 3**](https://github.com/rxizenx-tech/proyecto-3) | Writeups y notas de CTFs | `Markdown` `Linux` |
 
