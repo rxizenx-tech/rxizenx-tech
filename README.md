@@ -70,7 +70,7 @@ raizen@kali:~$ cat misión.txt
 > Crear software seguro desde el diseño y ayudar a otros a proteger sus sistemas.
 
 raizen@kali:~$ sudo make coffee
-> ☕ Listo. Hora de hackear (legalmente).
+> ☕ Listo. Hora de hackear.
 ```
 
 - 💻 Desarrollo aplicaciones web **full stack** con enfoque en seguridad.
