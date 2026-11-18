@@ -1,12 +1,35 @@
-<!-- Reemplaza TU_USUARIO por tu usuario de GitHub en todos los enlaces -->
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a3d2a,100:00ff9c&height=260&section=header&text=RAIZEN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Programador%20%7C%20Ethical%20Hacker&descAlignY=62&descSize=24" alt="Banner" />
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=760&lines=Wake+up%2C+Neo...;Programador+%26+Hacker+%C3%89tico+Profesional;Construyo+aplicaciones+web+seguras;Follow+the+white+rabbit+%F0%9F%90%87" alt="Typing" />
+</a>
+
+</div>
+
+## 👤 Sobre mí
+
+```bash
+rxizenx-tech@kali:~$ whoami
+> Raizen — Programador y hacker ético profesional
+
+rxizenx-tech@kali:~$ cat about.txt
+> Desarrollo software, hago pentesting en entornos autorizados
+> y tradeo cuentas de Free Fire 🔥 entre otras cosas.
+```
+
+- 💻 **Programador** web full stack con enfoque en seguridad.
+- 🛡️ **Hacker ético profesional**: pentesting web, análisis de vulnerabilidades y hardening.
+- 🔥 **Trading de cuentas de Free Fire** y más. Escríbeme por mi canal o redes.
+- 🎥 Contenido en TikTok y novedades en mi canal de WhatsApp.
+- 📫 Abierto a proyectos, colaboraciones y negocios.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:0a3d2a,100:00ff9c&height=260&section=header&text=RAIZEN&fontSize=90&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Web%20Developer%20%7C%20Ethical%20Hacker&descAlignY=62&descSize=24" alt="Banner" />
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00FF9C&center=true&vCenter=true&width=760&lines=Wake+up%2C+Neo...;The+Matrix+has+you...;Follow+the+white+rabbit+%F0%9F%90%87;Construyo+aplicaciones+web+seguras;Encuentro+vulnerabilidades+antes+que+los+atacantes" alt="Matrix Typing" />
-</a>
+[![WhatsApp Canal](https://img.shields.io/badge/Canal_de_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCKcp9KrWQnFaNTe23q)
+[![TikTok](https://img.shields.io/badge/TikTok-damian__jm2908-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@damian_jm2908)
+[![GitHub](https://img.shields.io/badge/GitHub-rxizenx--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rxizenx-tech)
 
 <br/>
 
@@ -14,9 +37,9 @@
 
 <br/>
 
-![Visitas](https://komarev.com/ghpvc/?username=TU_USUARIO&label=Visitas&color=00ff9c&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/TU_USUARIO?style=for-the-badge&logo=github&color=203a43)
-![Stars](https://img.shields.io/github/stars/TU_USUARIO?style=for-the-badge&logo=github&color=00c97a)
+![Visitas](https://komarev.com/ghpvc/?username=rxizenx-tech&label=Visitas&color=00ff9c&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/rxizenx-tech?style=for-the-badge&logo=github&color=203a43)
+![Stars](https://img.shields.io/github/stars/rxizenx-tech?style=for-the-badge&logo=github&color=00c97a)
 
 </div>
 
@@ -57,27 +80,6 @@
 ![Score](https://img.shields.io/badge/HIGH_SCORE-1337-00ff9c?style=for-the-badge&labelColor=000000)
 
 </div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="línea" />
-
-## 👤 Sobre mí
-
-```bash
-raizen@kali:~$ whoami
-> Desarrollador web & hacker ético
-
-raizen@kali:~$ cat misión.txt
-> Crear software seguro desde el diseño y ayudar a otros a proteger sus sistemas.
-
-raizen@kali:~$ sudo make coffee
-> ☕ Listo. Hora de hackear.
-```
-
-- 💻 Desarrollo aplicaciones web **full stack** con enfoque en seguridad.
-- 🛡️ Pentesting web, análisis de vulnerabilidades y hardening.
-- 🧠 Aprendiendo: CTFs, bug bounty y desarrollo seguro.
-- 🌱 Ahora mismo: **OWASP Top 10, Burp Suite y Docker**.
-- 📫 Abierto a colaboraciones y oportunidades.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="línea" />
 
@@ -131,12 +133,12 @@ raizen@kali:~$ sudo make coffee
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=rxizenx-tech&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rxizenx-tech&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes" />
 
-<img src="https://streak-stats.demolab.com?user=TU_USUARIO&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha" />
+<img src="https://streak-stats.demolab.com?user=rxizenx-tech&theme=tokyonight&hide_border=true&background=0d1117" alt="Racha" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=TU_USUARIO&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9c&line=00c97a&point=ffffff" alt="Actividad" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rxizenx-tech&theme=react-dark&hide_border=true&bg_color=0d1117&color=00ff9c&line=00c97a&point=ffffff" alt="Actividad" />
 
 </div>
 
@@ -146,24 +148,17 @@ raizen@kali:~$ sudo make coffee
 
 | Proyecto | Descripción | Tecnologías |
 |----------|-------------|-------------|
-| 🔗 [**Proyecto 1**](https://github.com/TU_USUARIO/proyecto-1) | App web con autenticación segura y panel admin | `React` `Node.js` `PostgreSQL` |
-| 🔗 [**Proyecto 2**](https://github.com/TU_USUARIO/proyecto-2) | Herramienta de auditoría y reconocimiento web | `Python` `Bash` |
-| 🔗 [**Proyecto 3**](https://github.com/TU_USUARIO/proyecto-3) | Writeups y notas de CTFs | `Markdown` `Linux` |
+| 🔗 [**Proyecto 1**](https://github.com/rxizenx-tech/proyecto-1) | App web con autenticación segura y panel admin | `React` `Node.js` `PostgreSQL` |
+| 🔗 [**Proyecto 2**](https://github.com/rxizenx-tech/proyecto-2) | Herramienta de auditoría y reconocimiento web | `Python` `Bash` |
+| 🔗 [**Proyecto 3**](https://github.com/rxizenx-tech/proyecto-3) | Writeups y notas de CTFs | `Markdown` `Linux` |
 
 ## 🏆 Logros
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="Trofeos" />
+<img src="https://github-profile-trophy.vercel.app/?username=rxizenx-tech&theme=onedark&no-frame=true&no-bg=true&margin-w=10" alt="Trofeos" />
 
 </div>
-
-## 📚 Mi ruta de aprendizaje
-
-- [ ] Certificación de pentesting (eJPT / OSCP)
-- [ ] Bug bounty en programas públicos
-- [ ] Seguridad en APIs y cloud
-- [ ] Contribuir a proyectos open source de seguridad
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="línea" />
 
@@ -171,10 +166,9 @@ raizen@kali:~$ sudo make coffee
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_USUARIO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00ff9c?style=for-the-badge&logo=googlechrome&logoColor=black)](https://tusitio.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tucorreo@email.com)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/TU_USUARIO)
+[![WhatsApp Canal](https://img.shields.io/badge/Canal_de_WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029VbCKcp9KrWQnFaNTe23q)
+[![TikTok](https://img.shields.io/badge/TikTok-damian__jm2908-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://www.tiktok.com/@damian_jm2908)
+[![GitHub](https://img.shields.io/badge/GitHub-rxizenx--tech-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rxizenx-tech)
 
 *"La seguridad no es un producto, es un proceso."* 👁️👁️
 
